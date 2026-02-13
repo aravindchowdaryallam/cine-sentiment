@@ -1,0 +1,162 @@
+[
+    {
+        "title": "RRR",
+        "language": "Telugu",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "year": 2022,
+        "mood": "Mass Masala",
+        "matchScore": 98,
+        "imdbId": "tt8178634"
+    },
+    {
+        "title": "Pushpa: The Rise",
+        "language": "Telugu",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "year": 2021,
+        "mood": "Action Hero",
+        "matchScore": 95,
+        "imdbId": "tt12027020"
+    },
+    {
+        "title": "Baahubali: The Beginning",
+        "language": "Telugu",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "year": 2015,
+        "mood": "Epic Journey",
+        "matchScore": 99,
+        "imdbId": "tt2631186"
+    },
+    {
+        "title": "Dangal",
+        "language": "Hindi",
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "year": 2016,
+        "mood": "Emotional Journey",
+        "matchScore": 97,
+        "imdbId": "tt5074352"
+    },
+    {
+        "title": "Jai Bhim",
+        "language": "Tamil",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "year": 2021,
+        "mood": "Deep Thoughts",
+        "matchScore": 96,
+        "imdbId": "tt15097216"
+    },
+    {
+        "title": "Kantara",
+        "language": "Kannada",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "year": 2022,
+        "mood": "Mass Masala",
+        "matchScore": 94,
+        "imdbId": "tt15327232"
+    },
+    {
+        "title": "Lucifer",
+        "language": "Malayalam",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "year": 2019,
+        "mood": "Mass Masala",
+        "matchScore": 93,
+        "imdbId": "tt8399564"
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "language": "English",
+        "genres": [
+            "Drama"
+        ],
+        "year": 1994,
+        "mood": "Emotional Journey",
+        "matchScore": 100,
+        "imdbId": "tt0111161"
+    },
+    {
+        "title": "The Dark Knight",
+        "language": "English",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "year": 2008,
+        "mood": "Action Hero",
+        "matchScore": 99,
+        "imdbId": "tt0468569"
+    },
+    {
+        "title": "Jersey",
+        "language": "Telugu",
+        "genres": [
+            "Drama",
+            "Sports"
+        ],
+        "year": 2019,
+        "mood": "Emotional Journey",
+        "matchScore": 92,
+        "imdbId": "tt9191060"
+    },
+    {
+        "title": "Vikram",
+        "language": "Tamil",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "year": 2022,
+        "mood": "Action Hero",
+        "matchScore": 94,
+        "imdbId": "tt13444470"
+    },
+    {
+        "title": "Drishyam",
+        "language": "Malayalam",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "year": 2013,
+        "mood": "Deep Thoughts",
+        "matchScore": 98,
+        "imdbId": "tt3417422"
+    },
+    {
+        "title": "KGF: Chapter 1",
+        "language": "Kannada",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "year": 2018,
+        "mood": "Mass Masala",
+        "matchScore": 91,
+        "imdbId": "tt3521164"
+    }
+]

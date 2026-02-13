@@ -27,5 +27,5 @@ dist-ssr
 archive (1).zip
 extracted_archive/
 extracted_movie_data/
-data/
+/data/
 dist/
